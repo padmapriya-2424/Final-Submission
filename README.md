@@ -8,13 +8,15 @@ Welcome to the official submission repository for the **SRCAS Hackathon** organi
 
 Please fill in the following details in this README file before submitting your repository:
 
-- **Team Name:** [Your Team Name]  
-- **Team ID:** [Your Team ID]  
-- **Problem Statement ID:** [Problem Statement ID]  
-- **Project Title:** [Your Project Title]  
-- **Team Leader Name:** [Team Leader's Full Name]  
-- **Team Members:** [Team Member's Names]  
-
+- **Team Name:** TECH ARMY
+- **Team ID:** TIPS02T23 
+- **Problem Statement ID:** T1PS02   
+- **Project Title:** CREATE A MICROFINANCE PLATFORM FOR WOMEN ENTREPRENEURS  
+- **Team Leader Name:** PADMAPRIYA C 
+- **Team Members:**
+- RANJITHA PRAPHA
+- PRIYADARSHINI K
+- PAVITHRA N
 ---
 
 ## 📋 **Submission Requirements**
